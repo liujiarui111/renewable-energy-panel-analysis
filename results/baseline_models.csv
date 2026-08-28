@@ -1,0 +1,7 @@
+variable,model_1,model_2,model_3
+ln_renew,0.0396**,0.0346*,0.0129
+ln_service,,0.4537***,0.0368
+ln_gdp,,,0.3710***
+observations,6659,6659,6659
+within_r_squared,0.007,0.027,0.179
+

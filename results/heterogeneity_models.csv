@@ -1,0 +1,4 @@
+group,renewable_coefficient,t_statistic,observations,within_r_squared
+Low renewable penetration,0.0158,0.95,3420,0.161
+High renewable penetration,-0.2371***,-2.65,3300,0.257
+
